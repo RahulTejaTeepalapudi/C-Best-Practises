@@ -41,8 +41,8 @@ namespace HackerEarth{
             }
         }
         /// <summary>
-		/// Converts the String Read for Console to Array of Integers
-		/// </summary>
+	/// Converts the String Read for Console to Array of Integers
+	/// </summary>
         public static int[] GetIntArray(string inputString, int[] intArr ,int size)
         {
             string[] strArr = inputString.Split(' ');
